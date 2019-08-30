@@ -179,7 +179,7 @@ SENSOR_TYPES = {
 ICON_MAPPING = {
     '1': 'mdi:weather-sunny',
     '2': 'mdi:weather-night',
-    '3': 'mdi:weather-partlycloudy',
+    '3': 'mdi:weather-partly-cloudy',
     '4': 'mdi:weather-cloudy',
     '6': 'mdi:weather-sunset',
     '8': 'mdi:weather-rainy',
